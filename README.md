@@ -1,4 +1,4 @@
-# privateGPT
+# dashGPT
 Ask questions to your documents without an internet connection, using the power of LLMs. 100% private, no data leaves your execution environment at any point. You can ingest documents and ask questions without an internet connection!
 
 Built with [LangChain](https://github.com/hwchase17/langchain), [GPT4All](https://github.com/nomic-ai/gpt4all), [LlamaCpp](https://github.com/ggerganov/llama.cpp), [Chroma](https://www.trychroma.com/) and [SentenceTransformers](https://www.sbert.net/).
@@ -103,7 +103,7 @@ Type `exit` to finish the script.
 
 
 ### CLI
-The script also supports optional command-line arguments to modify its behavior. You can see a full list of these arguments by running the command ```python privateGPT.py --help``` in your terminal.
+The script also supports optional command-line arguments to modify its behavior. You can see a full list of these arguments by running the command ```python dashGPT.py --help``` in your terminal.
 
 
 # How does it work?
